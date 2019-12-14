@@ -1,0 +1,7 @@
+{
+  "name": "graph_mv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CauchyPolymer/graph_mv",
+  "license": "MIT"
+}
